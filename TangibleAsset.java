@@ -9,12 +9,12 @@ public abstract class TangbleAsset {
     this.color = color;s
   }
   public String getName(){
-    return this.name
+    return this.name;
   }
    public String getPrice(){
-    return this.Price
+    return this.Price;
   }
    public String getColor(){
-    return this.color
+    return this.color;
   }
 }
